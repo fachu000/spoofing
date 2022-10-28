@@ -1,6 +1,6 @@
-You need to install numpy, pyplot, tensorflow, etc. 
+You need to have the typical packages (numpy, pyplot, tensorflow, etc.) installed. I used Python 3.9.13. 
 
-Then, just type the following in the terminal:
+After cloning and entering the main folder, just type the following in the terminal:
 
 ```bash
 
